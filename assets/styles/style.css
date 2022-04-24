@@ -1,0 +1,74 @@
+.first {
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 48px;
+    font-family: 'Inter', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(53, 184, 190, 1);
+    left: 0%;
+    right: 0%;
+    top: 0;
+    margin-top: 0%;
+    
+}
+.menu {
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 48px;
+    font-family:'Inter', sans-serif;
+    color:#28224B;
+    text-decoration: none;
+    left: 0%;
+    right: 0%;
+    top: 48px;
+    height: 100px;
+    
+}
+.firstfoto {
+    width: 600px;
+    height: 580px;
+    right: 0px;
+    position: absolute;
+}
+#blue {
+    color: #35b8be;
+}
+.menu:hover {
+    text-decoration: underline;
+}
+#logo {
+    width: 40px;
+    height: 51px;
+    right: 96.67%;
+    top: 73px;
+}
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    color: rgba(8, 9, 10, 1);
+    position: absolute;
+    width: 600px;
+}
+#text {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(8, 9, 10, 1);
+    width: 539px; 
+    position: absolute;
+    top: 512px;  
+}
+#section {
+    height: 820px;
+    left: 0;
+    right: 0;
+    top: 148px;
+    
+}
